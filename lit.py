@@ -5,7 +5,7 @@ import pandas as pd
 import plotly.express as px
 import matplotlib.pyplot as plt
 from sqlalchemy import create_engine 
-st.title('Celulares MAgazine')
+st.title('Celulares Magazine')
 
 #requisicao1 = requests.get("http://localhost:5000/dados")
 #requisicao2 = requests.get("http://127.0.0.1:5000/dados_brutos")
